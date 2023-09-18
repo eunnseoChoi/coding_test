@@ -1,2 +1,0 @@
-for answer in range(2, n+1):
-        if n%answer==1: return answer
